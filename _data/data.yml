@@ -58,9 +58,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Political Science
+      university: Universidad de Murcia
+      time: 2014 - unfinished
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +69,20 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MA in Political Communication and Marketing
+      university: Instituto Universitario de Investigación José Ortega y Gasset, Madrid
+      time: 2014 - 2015
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BA in Political Science
+      university: Universidad Pablo de Olavide, Sevilla
+      time: 2010 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -81,9 +92,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Performance Marketing Manager
+      time: 2020 - Present
+      company: Holvi - a BBVA company, Berlin (Germany)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,9 +107,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Performance Marketing Manager
+      time: 2018 - 2020
+      company: Holvi - a BBVA company, Berlin (Germany)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -108,8 +119,8 @@ experiences:
           - Bullet point
           - Bullet point
     - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+      time: 2017 - 2018
+      company: Accenture, Dublin (Ireland)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -125,17 +136,17 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Carscraper
+        link: "https://github.com/fubespu/carscraper"
+        tagline: "Ever wondered what your car is worth?, this software based on Scrapy (a powerfull web scraper) is one of the core pieces of this project. It scrapes multiple sides and builds a MySQL database which will let users know what they car is worth, based on similar models that are online"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Interstellarmaps
+        link: "https://interstellarmaps.com"
+        tagline: "I love maps, specially if the show cool stuff that nobody knows about. It is a e-commerce platform hosted on a VPS server (just for the first MVP). The goal is to offer amazing and unique maps of Mars and the Moon, so that everyone can have them on their walls."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Street Soul Photography
+        link: "https://streetsoulphotography.com"
+        tagline: "Our photography collective as been working on this project since 2012, it all started with a wordpress.com hosted site that has been moving around to which is nowadays a solid and fast host. We try to offer high quality content to other interested hobby to proffessional photographers around the globe. This site has around 300 daily visitors."
 
       - title: Atom
         link: "#"
