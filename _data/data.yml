@@ -92,43 +92,32 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Senior Performance Marketing Manager
+    - role: Performance Marketing Lead
       time: 2020 - Present
-      company: Holvi - a BBVA company, Berlin (Germany)
+      company: Holvi, Berlin (Germany)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Currently I'm managing a team of three performance marketers in the fields of Affiliate Marketing, Paid Search and Display advertising. Crossfuntional work with other teams is also necessary in the current team setup as part of my core competences are still with the areas of Facebook Advertising and testing.
+        As a Performance Lead I've been also taking a bigger responsability defining budgets for each channel and analysing business opportunities laying beneath a sane cost and return of investment balance.
+        When I started working for Holvi my first task were running paid social, display retargeting and corresponding reporting duties. After taking ownership for this channel and successfully ramping it up to the desired level of acquisition, I was soon entrusted with more extensive and important tasks such as testing and roll out of other channels.
+
           - Bullet point
           - Bullet point
+          
+    - role: Senior Performance Marketing Manager
+      time: 2020 - 2020
+      company: Holvi, Berlin (Germany)
+      details: |
+
     - role: Performance Marketing Manager
       time: 2018 - 2020
-      company: Holvi - a BBVA company, Berlin (Germany)
+      company: Holvi, Berlin (Germany)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+
+    - role: Facebook Marketing Specialist
       time: 2017 - 2018
       company: Accenture, Dublin (Ireland)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 projects:
     title: Projects
     intro: >
@@ -138,7 +127,7 @@ projects:
     assignments:
       - title: Carscraper
         link: "https://github.com/fubespu/carscraper"
-        tagline: "Ever wondered what your car is worth?, this software based on Scrapy (a powerfull web scraper) is one of the core pieces of this project. It scrapes multiple sides and builds a MySQL database which will let users know what they car is worth, based on similar models that are online"
+        tagline: "Ever wondered what your car is worth?, this software based on Scrapy (a powerfull web scraper) is one of the core pieces of this project. It scrapes multiple sides and builds a MySQL database which will let users know what they car is worth, based on similar models that are available online."
 
       - title: Interstellarmaps
         link: "https://interstellarmaps.com"
@@ -148,22 +137,38 @@ projects:
         link: "https://streetsoulphotography.com"
         tagline: "Our photography collective as been working on this project since 2012, it all started with a wordpress.com hosted site that has been moving around to which is nowadays a solid and fast host. We try to offer high quality content to other interested hobby to proffessional photographers around the globe. This site has around 300 daily visitors."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+events:
+    title: Events
+    intro: |
+      As part of my core competences as Performance Marketing Manager I believe that assisting to events and keeping up with trends in marketing, SaaS, advertising networks and general market evolutions.
+    papers:
+      - title: EMEA Fintech Day
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        authors: Facebook HQ Dublin
+        conference: "May 2018"
+
+      - title: Performance Summit
+        link: "#"
+        authors: Facebook HQ Madrid
+        conference: "September 2018"
+
+      - title: Facebook Finance Services Summit
+        link: "#"
+        authors: Facebook HQ London
+        conference: "September 2019"
+
+      - title: OM finCon (hosted by financeAds)
+        link: "#"
+        authors: Festsaal Kreuzberg
+        conference: "May 2019"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      During my years in the academia I assisted on some publications in the field of political communication and social media polarization.
     papers:
-      - title: The Art of Computer Programming
+      - title: Political Polarization
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
@@ -182,23 +187,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Facebook Advertising
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Visual Web Optimiser (A/B and split URL testing tool)
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Marketing analytics tools (Google Analytics, Facebook Analytics/Attribution, Adjust...)
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Adroll
+        level: 80% 
+
+      - name: Google Search Ads
+        level: 70%
+
+      - name: Looker
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
