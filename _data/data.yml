@@ -80,10 +80,12 @@ experiences:
       time: 2020 - 2020
       company: Holvi, Berlin (Germany)
       details: |
+
     - role: Performance Marketing Manager
       time: 2018 - 2020
       company: Holvi, Berlin (Germany)
       details: |
+      
     - role: Facebook Marketing Specialist
       time: 2017 - 2018, 6 months
       company: Accenture, Dublin (Ireland)
@@ -175,7 +177,7 @@ publications:
       - title: "Twitter durante la campaña de junio de 2016. Diferencias y similitudes entre la precampaña, la campaña, el debate, la jornada de reflexión y el día de las elecciones" chapter in La búsqueda digital del voto. Cibercampañas Electorales en España 2015-16.
         link: "https://editorial.tirant.com/es/ebook/la-busqueda-digital-del-voto-cibercampanas-electorales-en-espana-2015-16-jose-luis-dader-9788491691846"
         authors: Úbeda Spura, Fabián
-        conference: "Tirant lo Blanch, 2017"
+        conference: Tirant lo Blanch, 2017
 
       - title: "Polarización política: análisis de la relación interpartidista en Twitter. Acercamiento al caso comparado España - Ecuador"
         link: "https://www.academia.edu/14065984/Polarizaci%C3%B3n_pol%C3%ADtica_an%C3%A1lisis_de_la_relaci%C3%B3n_interpartidista_en_Twitter_Acercamiento_al_caso_comparado_Espa%C3%B1a_Ecuador"
