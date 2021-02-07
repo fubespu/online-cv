@@ -4,8 +4,8 @@
 
   <h2 class="section-title">
     <span class="fas fa-lightbulb">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-circle fa-lightbulb-2x"></i>
+      <i class="fas fa-archive fa-lightbulb-1x fa-inverse"></i>
     </span>
     {{ courses.title }}
   </h2>
@@ -19,16 +19,16 @@
   {% for course in courses.assignments %}
     <div class="item">
 
-      <span class="courses-title">
-        {% if courses.link %}
-        <a href="{{ course.link }}" target="_blank">{{ courses.title }}</a>
+      <span class="course-title">
+        {% if course.link %}
+        <a href="{{ course.link }}" target="_blank">{{ course.title }}</a>
         {% else %}
-        {{ courses.title }}
+        {{ course.title }}
         {% endif %}
       </span>
 
-      {% if courses.tagline %}
-      - <span class="courses-tagline">{{ courses.tagline }}</span>
+      {% if course.tagline %}
+      - <span class="course-tagline">{{ course.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
