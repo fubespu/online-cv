@@ -1,30 +1,37 @@
 {% assign courses = site.data.data.courses %}
 {% if courses %}
-<section class="section publication-section">
+<section class="section courses-section">
 
   <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    <span class="fas fa-lightbulb">
+      <i class="fas fa-circle fa-lightbulb-2x"></i>
+      <i class="fas fa-archive fa-lightbulb-1x fa-inverse"></i>
     </span>
     {{ courses.title }}
   </h2>
 
-  {% if publications.intro %}
+  {% if courses.intro %}
   <div class="intro">
-    {{ courses.intro | markdownify }}
+      <p>{{ courses.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
   {% for course in courses.learnings %}
-  <div class="item">
-    {% if courses.link %}
-      <li><a href="{{ courses.link }}">{{ courses.title }}</a></li>
-    {% else %}
-      <li>{{ courses.title }}</li>
-    {% endif %}
-    <div class="publication-conference">{{ courses.conference }}</div>
-  </div><!--//item-->
+    <div class="item">
+
+      <span class="course-title">
+        {% if course.link %}
+        <a href="{{ course.link }}" target="_blank">{{ course.title }}</a>
+        {% else %}
+        {{ course.title }}
+        {% endif %}
+      </span>
+
+      {% if course.tagline %}
+      - <span class="course-tagline">{{ course.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
