@@ -19,16 +19,16 @@
   {% for course in courses.assignments %}
     <div class="item">
 
-      <span class="course-title">
-        {% if course.link %}
-        <a href="{{ course.link }}" target="_blank">{{ course.title }}</a>
+      <span class="courses-title">
+        {% if courses.link %}
+        <a href="{{ course.link }}" target="_blank">{{ courses.title }}</a>
         {% else %}
-        {{ course.title }}
+        {{ courses.title }}
         {% endif %}
       </span>
 
-      {% if course.tagline %}
-      - <span class="course-tagline">{{ course.tagline }}</span>
+      {% if courses.tagline %}
+      - <span class="courses-tagline">{{ courses.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
