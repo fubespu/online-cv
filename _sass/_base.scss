@@ -170,7 +170,7 @@ p {
         margin-bottom: 60px;
     }
 
-    .experiences-section, .educations-section {
+    .experiences-section, .educations-section, .courses-section, .events-section, {
         .item {
             margin-bottom: 30px;
         }
@@ -180,7 +180,7 @@ p {
         overflow: hidden;
         margin-bottom: 2px;
     }
-    .job-title, .degree {
+    .job-title, .degree, .course {
         color: $text-color;
         font-size: 16px;
         margin-top: 0;
@@ -233,26 +233,6 @@ p {
             margin-bottom: 15px;
         }
     }
-    .event-title {
-        font-size: 16px;
-        font-weight: 400;
-        color: $text-color;
-        margin-bottom: 1px;
-    }
-    .event-authors {
-        font-style: italic;
-        color: $text-grey;
-        margin-bottom: 1px;
-    }
-    .events-section {
-        .intro {
-            margin-bottom: 30px;
-        }
-        .item {
-            margin-bottom: 15px;
-        }
-    }
-
 }
 
 
@@ -292,3 +272,4 @@ p {
     }
 
 }
+
