@@ -96,40 +96,40 @@ experiences:
         The difference in savviness of our clients made it quite challenging but also thrilling. 
         However, the task that I learned more from was hearing them out and getting to know their needs and concerns.
 
-courses:
+publications:
     title: Courses
-    learning:
-      - course: Remote Work Foundations
+    assignments:
+      - title: Remote Work Foundations
         link: "http://www.linkedin.com/learning/remote-work-foundations?trk=flagship-lil_details_certification&trk=lil_details_certification"
-        tagline: "LinkedIn Learning"
+        conference: "LinkedIn Learning"
 
-      - course: Managerial Economics
+      - title: Managerial Economics
         link: "http://www.linkedin.com/learning/managerial-economics?trk=flagship-lil_details_certification&trk=lil_details_certification"
-        tagline: "LinkedIn Learning"
+        conference: "LinkedIn Learning"
 
-      - course: Financial Modeling and forecasting Financial Statements
+      - title: Financial Modeling and forecasting Financial Statements
         link: "http://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements?trk=flagship-lil_details_certification&trk=lil_details_certification"
-        tagline: "LinkedIn Learning"
+        conference: "LinkedIn Learning"
 
-      - course: Learning Quantum Geographic Information System
+      - title: Learning Quantum Geographic Information System
         link: "http://www.linkedin.com/learning/learning-qgis-2?trk=flagship-lil_details_certification&trk=lil_details_certification"
-        tagline: "LinkedIn Learning"
+        conference: "LinkedIn Learning"
       
-      - course: Eighth Summer Seminar on Sociological and Political Research
+      - title: Eighth Summer Seminar on Sociological and Political Research
         link: "#"
-        tagline: "Real Colegio Complutense Harvard University, USA"
+        conference: "Real Colegio Complutense Harvard University, USA"
 
-      - course: Certificate in Advanced english
+      - title: Certificate in Advanced english
         link: "#"
-        tagline: "University of Cambridge"
+        conference: "University of Cambridge"
 
-      - course: Negotiation - a complex decision making process
+      - title: Negotiation - a complex decision making process
         link: "#"
-        tagline: "IESA"
+        conference: "IESA"
 
-      - course: Specialized Training in Electoral Processes. Legal-Electoral Counselling and Representation in Spain
+      - title: Specialized Training in Electoral Processes. Legal-Electoral Counselling and Representation in Spain
         link: "#"
-        tagline: "Universidad Pablo de Olavide"
+        conference: "Universidad Pablo de Olavide"
 
 projects:
     title: Projects
@@ -152,22 +152,26 @@ events:
     title: Events
     intro: |
       As part of my core competences as Performance Marketing Manager I believe that assisting to events and keeping up with trends in marketing, SaaS, advertising networks and general market evolutions.
-    assignments:
+    events:
       - title: EMEA Fintech Day
-        where: Facebook HQ Dublin
-        time: "May 2018"
+        link: "#"
+        authors: Facebook HQ Dublin
+        conference: "May 2018"
 
       - title: Performance Summit
-        where: Facebook HQ Madrid
-        time: "September 2018"
+        link: "#"
+        authors: Facebook HQ Madrid
+        conference: "September 2018"
 
       - title: Facebook Finance Services Summit
-        where: Facebook HQ London
-        time: "September 2019"
+        link: "#"
+        authors: Facebook HQ London
+        conference: "September 2019"
 
       - title: OM finCon (hosted by financeAds)
-        where: Festsaal Kreuzberg, Berlin
-        time: "May 2019"
+        link: "#"
+        authors: Festsaal Kreuzberg
+        conference: "May 2019"
 
 publications:
     title: Publications
