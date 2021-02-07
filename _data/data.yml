@@ -119,7 +119,7 @@ events:
     title: Events
     intro: |
       As part of my core competences as Performance Marketing Manager I believe that assisting to events and keeping up with trends in marketing, SaaS, advertising networks and general market evolutions.
-    papers:
+    events:
       - title: EMEA Fintech Day
         link: "#"
         authors: Facebook HQ Dublin
@@ -145,20 +145,15 @@ publications:
     intro: |
       During my years in the academia I assisted on some publications in the field of political communication and social media polarization.
     papers:
-      - title: Political Polarization
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Twitter durante la campaña de junio de 2016. Diferencias y similitudes entre la precampaña, la campaña, el debate, la jornada de reflexión y el día de las elecciones" chapter in La búsqueda digital del voto. Cibercampañas Electorales en España 2015-16.
+        link: "https://editorial.tirant.com/es/ebook/la-busqueda-digital-del-voto-cibercampanas-electorales-en-espana-2015-16-jose-luis-dader-9788491691846"
+        authors: Úbeda Spura, Fabián
+        conference: Tirant lo Blanch, 2017
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Polarización política: análisis de la relación interpartidista en Twitter. Acercamiento al caso comparado España - Ecuador"
+        link: "https://www.academia.edu/14065984/Polarizaci%C3%B3n_pol%C3%ADtica_an%C3%A1lisis_de_la_relaci%C3%B3n_interpartidista_en_Twitter_Acercamiento_al_caso_comparado_Espa%C3%B1a_Ecuador"
+        authors: Guerrero Salgado and Úbeda Spura
+        conference: "XII Congress Spanish Association of Political Science and Government, 2015"
 
 skills:
     title: Skills &amp; Proficiency
@@ -167,10 +162,10 @@ skills:
       - name: Facebook Advertising
         level: 98%
 
-      - name: Visual Web Optimiser (A/B and split URL testing tool)
+      - name: CRO Testing
         level: 95%
 
-      - name: Marketing analytics tools (Google Analytics, Facebook Analytics/Attribution, Adjust...)
+      - name: Google Analytics
         level: 90%
 
       - name: Adroll
@@ -180,6 +175,9 @@ skills:
         level: 70%
 
       - name: Looker
+        level: 65%
+
+      - name: Adjust
         level: 65%
 
 footer: >
