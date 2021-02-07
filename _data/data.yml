@@ -154,24 +154,20 @@ events:
       As part of my core competences as Performance Marketing Manager I believe that assisting to events and keeping up with trends in marketing, SaaS, advertising networks and general market evolutions.
     assignments:
       - title: EMEA Fintech Day
-        link: "#"
-        authors: Facebook HQ Dublin
-        conference: "May 2018"
+        where: Facebook HQ Dublin
+        time: "May 2018"
 
       - title: Performance Summit
-        link: "#"
-        authors: Facebook HQ Madrid
-        conference: "September 2018"
+        where: Facebook HQ Madrid
+        time: "September 2018"
 
       - title: Facebook Finance Services Summit
-        link: "#"
-        authors: Facebook HQ London
-        conference: "September 2019"
+        where: Facebook HQ London
+        time: "September 2019"
 
       - title: OM finCon (hosted by financeAds)
-        link: "#"
-        authors: Festsaal Kreuzberg
-        conference: "May 2019"
+        where: Festsaal Kreuzberg, Berlin
+        time: "May 2019"
 
 publications:
     title: Publications
