@@ -60,14 +60,17 @@ education:
       university: Universidad de Murcia
       time: 2015 - 2016 unfinished
       details: |
+
     - degree: MA in Political Communication and Marketing
       university: Instituto Universitario de Investigación José Ortega y Gasset, Madrid
       time: 2014 - 2015
       details: |
+
     - degree: BA in Political Science
       university: Universidad Pablo de Olavide, Sevilla
       time: 2010 - 2014
       details: |
+      
 experiences:
     - role: Performance Marketing Lead
       time: 2020 - Present, 3 years
@@ -85,7 +88,7 @@ experiences:
       time: 2018 - 2020
       company: Holvi, Berlin (Germany)
       details: |
-      
+
     - role: Facebook Marketing Specialist
       time: 2017 - 2018, 6 months
       company: Accenture, Dublin (Ireland)
