@@ -3,35 +3,29 @@
 <section class="section events-section">
 
   <h2 class="section-title">
-    <span class="fas fa-calendar-check">
-      <i class="fas fa-circle fa-calendar-check2x"></i>
-      <i class="fas fa-archive fa-calendar-check-1x fa-inverse"></i>
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
     {{ events.title }}
   </h2>
 
   {% if events.intro %}
   <div class="intro">
-      <p>{{ events.intro }}</p>
+    {{ events.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
 
-  {% for event in events.assignments %}
-    <div class="item">
-
-      <span class="event-title">
-        {% if event.link %}
-        <a href="{{ event.link }}" target="_blank">{{ event.title }}</a>
-        {% else %}
-        {{ event.title }}
-        {% endif %}
-      </span>
-
-      {% if event.tagline %}
-      - <span class="event-tagline">{{ event.tagline }}</span>
-      {% endif %}
-
-    </div><!--//item-->
+  {% for events in events.papers %}
+  <div class="item">
+    {% if events.link %}
+      <li><a href="{{ publication.link }}">{{ events.title }}</a></li>
+    {% else %}
+      <li>{{ events.title }}</li>
+    {% endif %}
+    <div class="publication-authors">{{ events.authors }}</div>
+    <div class="publication-conference">{{ events.conference }}</div>
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
