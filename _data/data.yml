@@ -54,61 +54,32 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Political Science was my field of expertise for many years, from my early college years to later PhD (unfinished) my passion was all about trying to explain changes in society with numbers. My first dissertation was about "Water and conflict", something that back then (2010) was already a discussion topic. Now, water is being traded on Wall Street.
-      It was back then during my college years that I developed a passion for statistics and research. One of my tutors, Javier Torres Vela (President of the Andalusian Parlament) introduced us to the incredible topic of demoscopy in electoral processes and how accurate data well read can affect the result of an election.
-      I was totally deboted to the idea of knowning more about society and it's changes than others. As a generation Z and basically born into the era of technological advance thanks to the use of the internet, I naturally developed two basic instincts: 1) affinity to computers and 2) TV isn't always telling the truth (probably it isn't most of the time).
-      This two habilities pushed me in what was then called "Social Media" but which we only called "messenger". I joined Facebook in January 2008, almost to the date 3 months before it's official launch in Spain and sind then I've been actively using the platform. I later found out that this was an important event that helped me understand the sociologic phenomenon of political polarization.
-      Political polarization has been a topic I wrote about in essays, conferences, book chapters, master dissertations and that finally ended up being the central part of my PhD "Political Polarization in Social Media". While working on that dissertation I started working for Bang Branding!, a regional branding and communication agency of Murcia (Spain). Ana Martínez and her business partner sparked in me what later would become my professional career as Marketing Manager. 
-      After 1.5 years working there as a research assistant, I decided to try and combine this new acquired field of expertise with the one I already developed before: marketing + poltical science. At Dialoga Consultores (Sevilla, Spain) I could deep dive a bit more into the job of the political consultant. However, this experience didn't felt quite right to me and I decided to seek other opportunities on foreig soil. Irland was the choice I made, where I was given the opportunity to work for a Facebook Contractor as Marketing Specialist.
-      In the period of 6 months I acquired everything I needed to know about the platform and what is required of what turned out to be my natural development: performance marketing. This field of expertise has been since then my core competence which I was lucky enough to develop working for Holvi, one of (if not THE) biggest B2B FinTech in Europe.
-      With my manager's mentorship I quickly developed the essencial skills of a Performance Marketing Manager: be data driven, understand attribution and marketing mix models, A/B testing, budgeting and so on and so forth... After achieving all challenges that were pushed into my way, I was given the opportunity to lead a small team of very talented marketing managers.
-      As a leader you will never stop learning about yourself and how to interact with others, I had to learn that my DiSC style (CD = Concient Dominance) had to be compensanted with other soft skills with some team members.
-
-
+      My background in political science makes me a data driven person who is also able to look in the bigger picture behind the data and how it fits into a broader strategy. So has proven my record of achievement working for Holvi, together with drove the company to an exponential growth from 2018 to 2020 leading it to become the top choice in FinTech B2B.
 
 education:
     - degree: PhD in Political Science
       university: Universidad de Murcia
       time: 2014 - unfinished
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - degree: MA in Political Communication and Marketing
       university: Instituto Universitario de Investigación José Ortega y Gasset, Madrid
       time: 2014 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - degree: BA in Political Science
       university: Universidad Pablo de Olavide, Sevilla
       time: 2010 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Performance Marketing Lead
-      time: 2020 - Present
+      time: 2020 - Present, 3 years
       company: Holvi, Berlin (Germany)
       details: |
-        Currently I'm managing a team of three performance marketers in the fields of Affiliate Marketing, Paid Search and Display advertising. Crossfuntional work with other teams is also necessary in the current team setup as part of my core competences are still with the areas of Facebook Advertising and testing.
-        As a Performance Lead I've been also taking a bigger responsability defining budgets for each channel and analysing business opportunities laying beneath a sane cost and return of investment balance.
-        When I started working for Holvi my first task were running paid social, display retargeting and corresponding reporting duties. After taking ownership for this channel and successfully ramping it up to the desired level of acquisition, I was soon entrusted with more extensive and important tasks such as testing and roll out of other channels.
-          
+        Currently, I'm managing a team of three performance marketers in the fields of Affiliate Marketing, Paid Search and Display advertising. Cross-functional work with other teams is also necessary in the current setup as part of my core competences are still with the areas of paid-social and conversion rate optimization.
+        As a Performance Lead I've been also taking a bigger responsibility defining budgets for each channel and analysing business opportunities laying beneath a sustainable acquisition.
+        When I started working for Holvi my first task were running paid social, display retargeting and corresponding reporting duties. After taking ownership for this channel and successfully ramping it up to the desired level of acquisition, I was soon entrusted with more extensive tasks such as testing and roll out of secondary tasks         
     - role: Senior Performance Marketing Manager
       time: 2020 - 2020
       company: Holvi, Berlin (Germany)
@@ -120,16 +91,17 @@ experiences:
       details: |
 
     - role: Facebook Marketing Specialist
-      time: 2017 - 2018
+      time: 2017 - 2018, 6 months
       company: Accenture, Dublin (Ireland)
       details: |
+        As a Facebook contractor, the program I was working for at Accenture took care of SMBs who wanted to use the self-service ads platform of Facebook. 
+        The difference in savviness of our clients made it quite challenging but also thrilling. 
+        However, the task that I learned more from was hearing them out and getting to know their needs and concerns.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      In my free time I like to work on projects which mostly rely on some coding or web development.
     assignments:
       - title: Carscraper
         link: "https://github.com/fubespu/carscraper"
@@ -142,14 +114,6 @@ projects:
       - title: Street Soul Photography
         link: "https://streetsoulphotography.com"
         tagline: "Our photography collective as been working on this project since 2012, it all started with a wordpress.com hosted site that has been moving around to which is nowadays a solid and fast host. We try to offer high quality content to other interested hobby to proffessional photographers around the globe. This site has around 300 daily visitors."
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 events:
     title: Events
