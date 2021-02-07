@@ -1,0 +1,38 @@
+{% assign courses = site.data.data.courses %}
+{% if courses %}
+<section class="section courses-section">
+
+  <h2 class="section-title">
+    <span class="fas fa-lightbulb">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ courses.title }}
+  </h2>
+
+  {% if courses.intro %}
+  <div class="intro">
+      <p>{{ courses.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for course in courses.assignments %}
+    <div class="item">
+
+      <span class="course-title">
+        {% if course.link %}
+        <a href="{{ course.link }}" target="_blank">{{ course.title }}</a>
+        {% else %}
+        {{ course.title }}
+        {% endif %}
+      </span>
+
+      {% if course.tagline %}
+      - <span class="course-tagline">{{ course.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
