@@ -3,188 +3,215 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Fabián Spura
+    tagline: Political Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: fabianspura@gmail.com
+    phone: 
+    website:  #do not add http://
+    linkedin: fubespu
+    github: fubespu
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@fubespu'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: German
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Native
+        
+      - idiom: Portuguese
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Mountainbiking
         link:
 
-      - item: Snowboarding
+      - item: Motorsports
         link:
 
-      - item: Cooking
+      - item: Photography
+        link:
+
+      - item: Coding
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My background in political science makes me a data driven person who is also able to look into the bigger picture behind the data and how it fits into a broader strategy. So has proven my record of achievement working for Holvi, together with drove the company to an exponential growth from 2018 to 2020 leading it to become the top choice in FinTech B2B.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Political Science
+      university: Universidad de Murcia
+      time: 2015 - 2016 unfinished
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+
+    - degree: MA in Political Communication and Marketing
+      university: Instituto Universitario de Investigación José Ortega y Gasset, Madrid
       time: 2014 - 2015
-      company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+    - degree: BA in Political Science
+      university: Universidad Pablo de Olavide, Sevilla
+      time: 2010 - 2014
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+experiences:
+    - role: Performance Marketing Lead
+      time: 2020 - Present, 3 years
+      company: Holvi, Berlin (Germany)
+      details: |
+        Currently, I'm managing a team of three performance marketers in the fields of Affiliate Marketing, Paid Search and Display advertising. Cross-functional work with other teams is also necessary in the current setup as part of my core competences are still with the areas of paid-social and conversion rate optimization.
+        As a Performance Lead I've been also taking a bigger responsibility defining budgets for each channel and analysing business opportunities laying beneath a sustainable acquisition.
+        When I started working for Holvi my first task were running paid social, display retargeting and corresponding reporting duties. After taking ownership for this channel and successfully ramping it up to the desired level of acquisition, I was soon entrusted with more extensive tasks such as testing and roll out of secondary tasks         
+    - role: Senior Performance Marketing Manager
+      time: 2020 - 2020
+      company: Holvi, Berlin (Germany)
+      details: |
+
+    - role: Performance Marketing Manager
+      time: 2018 - 2020
+      company: Holvi, Berlin (Germany)
+      details: |
+
+    - role: Facebook Marketing Specialist
+      time: 2017 - 2018, 6 months
+      company: Accenture, Dublin (Ireland)
+      details: |
+        As a Facebook contractor, the program I was working for at Accenture took care of SMBs who wanted to use the self-service ads platform of Facebook. 
+        The difference in savviness of our clients made it quite challenging but also thrilling. 
+        However, the task that I learned more from was hearing them out and getting to know their needs and concerns.
+
+courses:
+    title: Courses
+    assignments:
+      - title: Remote Work Foundations
+        link: "http://www.linkedin.com/learning/remote-work-foundations?trk=flagship-lil_details_certification&trk=lil_details_certification"
+        tagline: "LinkedIn Learning"
+
+      - title: Managerial Economics
+        link: "http://www.linkedin.com/learning/managerial-economics?trk=flagship-lil_details_certification&trk=lil_details_certification"
+        tagline: "LinkedIn Learning"
+
+      - title: Financial Modeling and forecasting Financial Statements
+        link: "http://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements?trk=flagship-lil_details_certification&trk=lil_details_certification"
+        tagline: "LinkedIn Learning"
+
+      - title: Learning Quantum Geographic Information System
+        link: "http://www.linkedin.com/learning/learning-qgis-2?trk=flagship-lil_details_certification&trk=lil_details_certification"
+        tagline: "LinkedIn Learning"
+      
+      - title: Eighth Summer Seminar on Sociological and Political Research
+        link: "#"
+        tagline: "Real Colegio Complutense Harvard University, USA"
+
+      - title: Certificate in Advanced english
+        link: "#"
+        tagline: "University of Cambridge"
+
+      - title: Negotiation - a complex decision making process
+        link: "#"
+        tagline: "IESA"
+
+      - title: Specialized Training in Electoral Processes. Legal-Electoral Counselling and Representation in Spain
+        link: "#"
+        tagline: "Universidad Pablo de Olavide"
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      In my free time I like to work on projects which mostly rely on some coding or web development.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Carscraper
+        link: "https://github.com/fubespu/carscraper"
+        tagline: "Ever wondered what your car is worth?, this software based on Scrapy (a powerfull web scraper) is one of the core pieces of this project. It scrapes multiple sides and builds a MySQL database which will let users know what their car is worth, based on similar models that are available online."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Interstellarmaps
+        link: "https://interstellarmaps.com"
+        tagline: "I love maps, specially if the show cool stuff that nobody knows about. It is a e-commerce platform hosted on a VPS server (just for the first MVP). The goal is to offer amazing and unique maps of Mars and the Moon, so that everyone can have them on their walls."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Street Soul Photography
+        link: "https://streetsoulphotography.com"
+        tagline: "Our photography collective as been working on this project since 2012, it all started with a wordpress.com hosted site that has been moving around to which is nowadays a solid and fast host. We try to offer high quality content to other interested hobby to proffessional photographers around the globe. This site has around 300 daily visitors even if it hasn't been updated for quite a long time."
 
-      - title: Atom
+events:
+    title: Events
+    intro: |
+      As part of my core competences as Performance Marketing Manager I believe that assisting to events and keeping up with trends in marketing, SaaS, advertising networks and general market evolutions.
+    events:
+      - title: EMEA Fintech Day
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        authors: Facebook HQ Dublin
+        conference: "May 2018"
 
-      - title: Delta
+      - title: Performance Summit
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        authors: Facebook HQ Madrid
+        conference: "September 2018"
+
+      - title: Facebook Finance Services Summit
+        link: "#"
+        authors: Facebook HQ London
+        conference: "September 2019"
+
+      - title: OM finCon (hosted by financeAds)
+        link: "#"
+        authors: Festsaal Kreuzberg
+        conference: "May 2019"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      During my years in the academia I assisted on some publications in the field of political communication and social media polarization.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Twitter durante la campaña de junio de 2016. Diferencias y similitudes entre la precampaña, la campaña, el debate, la jornada de reflexión y el día de las elecciones" chapter in La búsqueda digital del voto. Cibercampañas Electorales en España 2015-16.
+        link: "https://editorial.tirant.com/es/ebook/la-busqueda-digital-del-voto-cibercampanas-electorales-en-espana-2015-16-jose-luis-dader-9788491691846"
+        authors: Úbeda Spura, Fabián
+        conference: "Tirant lo Blanch, 2017"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Polarización política: análisis de la relación interpartidista en Twitter. Acercamiento al caso comparado España - Ecuador"
+        link: "https://www.academia.edu/14065984/Polarizaci%C3%B3n_pol%C3%ADtica_an%C3%A1lisis_de_la_relaci%C3%B3n_interpartidista_en_Twitter_Acercamiento_al_caso_comparado_Espa%C3%B1a_Ecuador"
+        authors: Guerrero Salgado and Úbeda Spura
+        conference: "XII Congress Spanish Association of Political Science and Government, 2015"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Facebook Advertising
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: CRO Testing
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Google Analytics
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Adroll
+        level: 80% 
+
+      - name: Google Search Ads
+        level: 70%
+
+      - name: Looker
+        level: 65%
+
+      - name: Adjust
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
