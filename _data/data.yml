@@ -98,36 +98,36 @@ experiences:
 
 courses:
     title: Courses
-    assignments:
-      - title: Remote Work Foundations
+    learning:
+      - course: Remote Work Foundations
         link: "http://www.linkedin.com/learning/remote-work-foundations?trk=flagship-lil_details_certification&trk=lil_details_certification"
         tagline: "LinkedIn Learning"
 
-      - title: Managerial Economics
+      - course: Managerial Economics
         link: "http://www.linkedin.com/learning/managerial-economics?trk=flagship-lil_details_certification&trk=lil_details_certification"
         tagline: "LinkedIn Learning"
 
-      - title: Financial Modeling and forecasting Financial Statements
+      - course: Financial Modeling and forecasting Financial Statements
         link: "http://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements?trk=flagship-lil_details_certification&trk=lil_details_certification"
         tagline: "LinkedIn Learning"
 
-      - title: Learning Quantum Geographic Information System
+      - course: Learning Quantum Geographic Information System
         link: "http://www.linkedin.com/learning/learning-qgis-2?trk=flagship-lil_details_certification&trk=lil_details_certification"
         tagline: "LinkedIn Learning"
       
-      - title: Eighth Summer Seminar on Sociological and Political Research
+      - course: Eighth Summer Seminar on Sociological and Political Research
         link: "#"
         tagline: "Real Colegio Complutense Harvard University, USA"
 
-      - title: Certificate in Advanced english
+      - course: Certificate in Advanced english
         link: "#"
         tagline: "University of Cambridge"
 
-      - title: Negotiation - a complex decision making process
+      - course: Negotiation - a complex decision making process
         link: "#"
         tagline: "IESA"
 
-      - title: Specialized Training in Electoral Processes. Legal-Electoral Counselling and Representation in Spain
+      - course: Specialized Training in Electoral Processes. Legal-Electoral Counselling and Representation in Spain
         link: "#"
         tagline: "Universidad Pablo de Olavide"
 
