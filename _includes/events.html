@@ -19,7 +19,7 @@
   {% for events in events.papers %}
   <div class="item">
     {% if events.link %}
-      <li><a href="{{ publication.link }}">{{ events.title }}</a></li>
+      <li><a href="{{ events.link }}">{{ events.title }}</a></li>
     {% else %}
       <li>{{ events.title }}</li>
     {% endif %}
