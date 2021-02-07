@@ -55,23 +55,19 @@ career-profile:
     title: Career Profile
     summary: |
       My background in political science makes me a data driven person who is also able to look into the bigger picture behind the data and how it fits into a broader strategy. So has proven my record of achievement working for Holvi, together with drove the company to an exponential growth from 2018 to 2020 leading it to become the top choice in FinTech B2B.
-
 education:
     - degree: PhD in Political Science
       university: Universidad de Murcia
       time: 2014 - unfinished
       details: |
-
     - degree: MA in Political Communication and Marketing
       university: Instituto Universitario de Investigación José Ortega y Gasset, Madrid
       time: 2014 - 2015
       details: |
-
     - degree: BA in Political Science
       university: Universidad Pablo de Olavide, Sevilla
       time: 2010 - 2014
       details: |
-
 experiences:
     - role: Performance Marketing Lead
       time: 2020 - Present, 3 years
@@ -84,12 +80,10 @@ experiences:
       time: 2020 - 2020
       company: Holvi, Berlin (Germany)
       details: |
-
     - role: Performance Marketing Manager
       time: 2018 - 2020
       company: Holvi, Berlin (Germany)
       details: |
-
     - role: Facebook Marketing Specialist
       time: 2017 - 2018, 6 months
       company: Accenture, Dublin (Ireland)
@@ -97,6 +91,39 @@ experiences:
         As a Facebook contractor, the program I was working for at Accenture took care of SMBs who wanted to use the self-service ads platform of Facebook. 
         The difference in savviness of our clients made it quite challenging but also thrilling. 
         However, the task that I learned more from was hearing them out and getting to know their needs and concerns.
+
+courses:
+    title: Courses
+    intro: >
+      
+    assignments:
+      - title: Remote Work Foundations
+        link: "http://www.linkedin.com/learning/remote-work-foundations?trk=flagship-lil_details_certification&trk=lil_details_certification"
+
+      - title: Managerial Economics
+        link: "http://www.linkedin.com/learning/managerial-economics?trk=flagship-lil_details_certification&trk=lil_details_certification"
+
+      - title: Financial Modeling and forecasting Financial Statements
+        link: "http://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements?trk=flagship-lil_details_certification&trk=lil_details_certification"
+
+      - title: Learning Quantum Geographic Information System
+        link: "http://www.linkedin.com/learning/learning-qgis-2?trk=flagship-lil_details_certification&trk=lil_details_certification"
+      
+      - title: Eighth Summer Seminar on Sociological and Political Research
+        link: "#"
+        tagline: "Real Colegio Complutense Harvard University, USA"
+
+      - title: Certificate in Advanced english
+        link: "#"
+        tagline: "University of Cambridge"
+
+      - title: Negotiation - a complex decision making process
+        link: "#"
+        tagline: "IESA"
+
+      - title: Specialized Training in Electoral Processes. Legal-Electoral Counselling and Representation in Spain
+        link: "#"
+        tagline: "Universidad Pablo de Olavide"
 
 projects:
     title: Projects
