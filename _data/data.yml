@@ -99,36 +99,32 @@ experiences:
 courses:
     title: Courses
     learnings:
-      - title: Remote Work Foundations
+      - course: Remote Work Foundations
         link: "http://www.linkedin.com/learning/remote-work-foundations?trk=flagship-lil_details_certification&trk=lil_details_certification"
         conference: "LinkedIn Learning"
 
-      - title: Managerial Economics
+      - course: Managerial Economics
         link: "http://www.linkedin.com/learning/managerial-economics?trk=flagship-lil_details_certification&trk=lil_details_certification"
         conference: "LinkedIn Learning"
 
-      - title: Financial Modeling and forecasting Financial Statements
+      - course: Financial Modeling and forecasting Financial Statements
         link: "http://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements?trk=flagship-lil_details_certification&trk=lil_details_certification"
         conference: "LinkedIn Learning"
 
-      - title: Learning Quantum Geographic Information System
+      - titcoursele: Learning Quantum Geographic Information System
         link: "http://www.linkedin.com/learning/learning-qgis-2?trk=flagship-lil_details_certification&trk=lil_details_certification"
         conference: "LinkedIn Learning"
       
       - title: Eighth Summer Seminar on Sociological and Political Research
-        link: "#"
         conference: "Real Colegio Complutense Harvard University, USA"
 
       - title: Certificate in Advanced english
-        link: "#"
         conference: "University of Cambridge"
 
       - title: Negotiation - a complex decision making process
-        link: "#"
         conference: "IESA"
 
       - title: Specialized Training in Electoral Processes. Legal-Electoral Counselling and Representation in Spain
-        link: "#"
         conference: "Universidad Pablo de Olavide"
 
 projects:
@@ -152,7 +148,7 @@ events:
     title: Events
     intro: |
       As part of my core competences as Performance Marketing Manager I believe that assisting to events and keeping up with trends in marketing, SaaS, advertising networks and general market evolutions.
-    events:
+    event:
       - title: EMEA Fintech Day
         link: "#"
         authors: Facebook HQ Dublin
@@ -213,5 +209,3 @@ skills:
       - name: Adjust
         level: 65%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
