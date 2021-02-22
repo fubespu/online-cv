@@ -111,19 +111,19 @@ experiences:
 courses:
     title: Courses
     learnings:
-      - course: Remote Work Foundations
+      - title: Remote Work Foundations
         link: "http://www.linkedin.com/learning/remote-work-foundations?trk=flagship-lil_details_certification&trk=lil_details_certification"
         conference: "LinkedIn Learning"
 
-      - course: Managerial Economics
+      - title: Managerial Economics
         link: "http://www.linkedin.com/learning/managerial-economics?trk=flagship-lil_details_certification&trk=lil_details_certification"
         conference: "LinkedIn Learning"
 
-      - course: Financial Modeling and forecasting Financial Statements
+      - title: Financial Modeling and forecasting Financial Statements
         link: "http://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements?trk=flagship-lil_details_certification&trk=lil_details_certification"
         conference: "LinkedIn Learning"
 
-      - course: Learning Quantum Geographic Information System
+      - title: Learning Quantum Geographic Information System
         link: "http://www.linkedin.com/learning/learning-qgis-2?trk=flagship-lil_details_certification&trk=lil_details_certification"
         conference: "LinkedIn Learning"
       
