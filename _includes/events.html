@@ -22,14 +22,15 @@
       {% if event.title %}
       <span class="project-title">{{ event.title }}</span>
       {% endif %}
+      
+      {% if event.time %}
+      <span class="time">{{ event.time }}</span>
+      {% endif %}
 
       {% if event.author %}
       <span class="publication-authors">{{ event.author }}</span>
       {% endif %}
       
-      {% if event.time %}
-      <span class="time">{{ event.time }}</span>
-      {% endif %}
 
     </div><!--//item-->
   {% endfor %}
