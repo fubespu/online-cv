@@ -18,11 +18,6 @@
 
   {% for courses in courses.learnings %}
   <div class="item">
-    {% if courses.link %}
-      <li><a href="{{ courses.link }}">{{ courses.title }}</a></li>
-    {% else %}
-      <li>{{ courses.title }}</li>
-    {% endif %}
     <div class="publication-authors">{{ courses.title }}</div>
     <div class="publication-conference">{{ courses.conference }}</div>
   </div><!--//item-->
