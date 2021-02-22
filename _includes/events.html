@@ -16,14 +16,14 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for event in events.event %}
+  {% for assisted in events.assisted %}
     <div class="item">
       <div class="meta">
-        <h3 class="job-title">{{ event.title }}</h3>
+        <h3 class="job-title">{{ assisted.title }}</h3>
 
-        <div class="company">{{ event.author }}</div>
+        <div class="company">{{ assisted.author }}</div>
 
-        <div class="time">{{ event.time }}</div>     
+        <div class="time">{{ assisted.time }}</div>     
       
       </div><!--//item-->
       
