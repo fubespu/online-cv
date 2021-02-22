@@ -18,15 +18,17 @@
 
   {% for event in events.event %}
     <div class="item">
-      
-      <h3 class="job-title">{{ event.title }}</h3>
-      
-      <div class="company">{{ event.author }}</div>
-      
-      <div class="time">{{ event.time }}</div>     
+      <div class="meta">
+        <h3 class="job-title">{{ event.title }}</h3>
 
+        <div class="company">{{ event.author }}</div>
+
+        <div class="time">{{ event.time }}</div>     
+      
+      </div><!--//item-->
+      
     </div><!--//item-->
-  {% endfor %}
+    {% endfor %}
 
 </section><!--//section-->
 {% endif %}
