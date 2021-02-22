@@ -203,6 +203,9 @@ skills:
 
       - name: Google Analytics
         level: 90%
+        
+      - name: Google Tag Manager
+        level: 85%
 
       - name: Adroll
         level: 80% 
@@ -215,6 +218,7 @@ skills:
 
       - name: Adjust
         level: 65%
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
