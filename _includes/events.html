@@ -1,35 +1,33 @@
 {% assign events = site.data.data.events %}
 {% if events %}
 <section class="section events-section">
+
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    Events
+    {{ events.title }}
   </h2>
 
-  {% for event in events %}
-  <div class="item">
+  {% if events.intro %}
+  <div class="intro">
+      <p>{{ events.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
 
-    <div class="meta">
+  {% for event in events.event %}
+    <div class="item">
 
-      <div class="upper-row">
-        <h3 class="job-title">{{ events.title }}</h3>
-      </div><!--//upper-row-->
+      {% if event.title %}
+      <span class="project-title">{{ event.title }}</span>
+      {% endif %}
 
-      <div class="authors">{{ event.authors }}</div>
-      <div class="time">{{ event.time }}</div>
+      {% if project.tagline %}
+      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% endif %}
 
-    </div><!--//meta-->
-
-    {% if event.details %}
-    <div class="details">
-      {{ event.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
-
-  </div><!--//item-->
+    </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
