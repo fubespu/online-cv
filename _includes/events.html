@@ -20,17 +20,17 @@
     <div class="item">
 
       {% if event.title %}
-      <h3 class="job-title">{{ event.title }}</span>
+      <h3 class="job-title">{{ event.title }}</h3>
+      {% endif %}
+      
+      {% if event.author %}
+      <div class="company">{{ event.author }}</div>
       {% endif %}
       
       {% if event.time %}
-      <div class="time">{{ event.time }}</span>
+      <div class="time">{{ event.time }}</div>
       {% endif %}
-
-      {% if event.author %}
-      <div class="company">{{ event.author }}</span>
-      {% endif %}
-      
+     
 
     </div><!--//item-->
   {% endfor %}
