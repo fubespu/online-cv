@@ -96,11 +96,12 @@ experiences:
         As a Facebook contractor, the program I was working for at Accenture took care of SMBs who wanted to use the self-service ads platform of Facebook. 
         The difference in savviness of our clients made it quite challenging but also thrilling. 
         However, the task that I learned more from was hearing them out and getting to know their needs and concerns.
+
     - role: Digital Political Communication Consultant
       time: April 2017 - May 2017
       company: Dialoga Consultores, Sevilla (Spain)
       details: |
-        My tasks as political advisor on digital communication affairs were to provide daily, weekly and monthly reports to the Government of an autonomous region in Spain.
+              My tasks as political advisor on digital communication affairs were to provide daily, weekly and monthly reports to the Government of an autonomous region in Spain.
         The main focus areas were political polarization in Social Media (mainly Facebook and Twitter), identifying trends and measure political opinions about certain topics we monitored.
     - role: Market Research
       time: 2015 - 2017
@@ -110,6 +111,8 @@ experiences:
 
 courses:
     title: Courses
+    intro: >
+      Learn new things, improve and keep up with the industry. That is the definition of a performance marketing manager but also of anyone who wants to become a great professional in any field and industry.
     learnings:
       - title: Remote Work Foundations
         link: "http://www.linkedin.com/learning/remote-work-foundations?trk=flagship-lil_details_certification&trk=lil_details_certification"
@@ -128,15 +131,19 @@ courses:
         conference: "LinkedIn Learning"
       
       - title: Eighth Summer Seminar on Sociological and Political Research
+        link: ""
         conference: "Real Colegio Complutense Harvard University, USA"
 
       - title: Certificate in Advanced english
+        link: ""
         conference: "University of Cambridge"
 
       - title: Negotiation - a complex decision making process
+        link: ""
         conference: "IESA"
 
       - title: Specialized Training in Electoral Processes. Legal-Electoral Counselling and Representation in Spain
+        link: ""
         conference: "Universidad Pablo de Olavide"
 
 projects:
