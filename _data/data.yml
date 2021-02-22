@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Fabián Spura
-    tagline: Political Scientist
+    name: Fabian Spura
+    tagline: Performance Marketing Lead
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -70,6 +70,7 @@ education:
       university: Universidad Pablo de Olavide, Sevilla
       time: 2010 - 2014
       details: |
+
 experiences:
     - role: Performance Marketing Lead
       time: 2020 - Present, 3 years
@@ -95,6 +96,18 @@ experiences:
         As a Facebook contractor, the program I was working for at Accenture took care of SMBs who wanted to use the self-service ads platform of Facebook. 
         The difference in savviness of our clients made it quite challenging but also thrilling. 
         However, the task that I learned more from was hearing them out and getting to know their needs and concerns.
+
+    - role: Digital Political Communication Consultant
+      time: April 2017 - May 2017
+      company: Dialoga Consultores, Sevilla (Spain)
+      details: |
+              My tasks as political advisor on digital communication affairs were to provide daily, weekly and monthly reports to the Government of an autonomous region in Spain.
+        The main focus areas were political polarization in Social Media (mainly Facebook and Twitter), identifying trends and measure political opinions about certain topics we monitored.
+    - role: Market Research
+      time: 2015 - 2017
+      company: BANG Branding, Murcia (Spain)
+      details: |
+        This was the beginning of my professional career in the field of marketing and consulting for marketing services. My main tasks were to produce reports and conduct research as well as to present my findings to the agency's clients.
 
 courses:
     title: Courses
