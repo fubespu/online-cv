@@ -16,7 +16,7 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for assisted in events %}
+  {% for event in events.assisted %}
     <div class="item">
       <div class="meta">
         <h3 class="job-title">{{ assisted.title }}</h3>
@@ -28,7 +28,7 @@
       </div><!--//item-->
       
     </div><!--//item-->
-    {% endfor %}
+  {% endfor %}
 
 </section><!--//section-->
 {% endif %}
